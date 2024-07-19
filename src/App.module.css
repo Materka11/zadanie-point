@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leftTable {
+  float: left;
+}
+
+.rightTable {
+  float: right;
+}
